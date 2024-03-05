@@ -1,0 +1,12 @@
+*{
+
+    margin:0;
+    padding: 0;
+}
+.user{
+
+    background-color: blue;
+    border: 2px solid red;
+    margin-top: 10px;
+    padding: 30px;
+}
